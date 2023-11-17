@@ -1,0 +1,26 @@
+.recipe {
+    border-radius: 10px;
+    box-shadow: 0px 5px 20px rgb(73, 72, 72);
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    background: rgb(255, 201, 255);
+    align-items: center;
+    min-width: 40%;
+}
+
+.title {
+    text-transform: capitalize;
+}
+
+.image {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
+
+.type {
+    text-transform: capitalize;
+
+}
